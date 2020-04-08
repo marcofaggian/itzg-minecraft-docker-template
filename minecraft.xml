@@ -7,7 +7,7 @@
   <Name>Minecraft</Name>
   <Description>This is a itzg/minecraft-server container.[br][br]
   [b][u][span style=\'color: #E80000;\']Configuration[/span][/u][/b][br]
-  [b]/minecraft[/b] : Storing all your files jars\\maps\\plugins\\configs [br]
+  [b]/data[/b] : Storing all your files jars\\maps\\plugins\\configs [br]
   [b]25565[/b] : The minecraft deamon [br]</Description>
   <Project>https://github.com/itzg/docker-minecraft-server</Project>
   <Registry>https://hub.docker.com/r/itzg/minecraft-server/</Registry>
@@ -37,7 +37,7 @@
   <Data>
     <Volume>
       <HostDir></HostDir>
-      <ContainerDir>/minecraft</ContainerDir>
+      <ContainerDir>/data</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
   </Data>

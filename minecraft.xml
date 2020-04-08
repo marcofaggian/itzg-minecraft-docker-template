@@ -42,7 +42,6 @@
     </Volume>
   </Data>
   <Version>0.1</Version>
-  <WebUI>http://[IP]:[PORT:8080]/</WebUI>
+  <WebUI></WebUI>
   <ExtraParams></ExtraParams>
-<BaseImage>linuxserver/baseimage</BaseImage>
 </Container>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
-  <TemplateURL>https://raw.githubusercontent.com/marcofaggian/itzg-minecraft-docker-template/master/minecraft.xml</TemplateURL>
+  <TemplateURL>https://raw.githubusercontent.com/marcofaggian/itzg-minecraft-docker-template/master/minecraft.yml</TemplateURL>
   <Beta>False</Beta>
   <Category>Network:Other Other:</Category>
   <Date>2020-04-08</Date>
